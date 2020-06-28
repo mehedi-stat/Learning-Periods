@@ -2,14 +2,10 @@
 This repo is for learning.
 You can learn many things from here.
 
-# Learning-Periods
-This repo is for learning.
-You can learn many things from here.
-
-#**Practicing Markdown**
-##Getting Excited
-###I have to understand many things.
-####Markdown is easy but quite tricky.
+##**Practicing Markdown**
+###Getting Excited
+####I have to understand many things.
+Markdown is easy but quite tricky.
 
 ---------------------------------
 
