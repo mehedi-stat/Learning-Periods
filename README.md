@@ -2,11 +2,11 @@
 This repo is for learning.
 You can learn many things from here.
 
-##**Practicing Markdown**
+## **Practicing Markdown**
 
-###Getting Excited
+### Getting Excited
 
-####I have to understand many things.
+#### I have to understand many things.
 
 Markdown is easy but quite tricky.
 
@@ -16,7 +16,7 @@ Markdown is easy but quite tricky.
 
 For applying markdown to GitHub i must need to see the tutorial.
 
-Markdown is also great for creating lists : 
+## Markdown is also great for creating lists : 
 - list-1
 - list-2
 - list-3
