@@ -66,8 +66,8 @@ Then add the path to your remote repository, so that Git can upload your files i
 To add a new remote, use the <span style="background-color: #FFFF00">**git remote add**</span> command on the terminal, in the directory your repository is stored at.
 
 * The git remote add command takes two arguments:
- - A remote name, for example, origin
- - A remote URL, for example, https://github.com/user/repo.git
+   - A remote name, for example, origin
+   - A remote URL, for example, https://github.com/user/repo.git
 
 For example : 
 ```
