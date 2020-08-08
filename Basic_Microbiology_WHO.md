@@ -1,8 +1,8 @@
 
-#<font color="green"><center>Basic Microbiology</center></font>
+# <font color="green"><center>Basic Microbiology</center></font>
 
 
-##What are microbes?
+## What are microbes?
 
 Microbes are everywhere. They are living organisms that have existed on this planet for over 3 billion years, and are essential for humans to live and function. Pathogens are microbes that cause disease but not all microbes are pathogens. Many microbes are normal human flora. Inside the human body, there are 10 trillion human cells and  100 trillion bacteria, protozoa, and fungal cells. When these microbes appear in parts of the body where they do not belong, they can cause infection.
 Microbes are categorized according to their biological classification (also called biological taxonomy). Organisms are classified into seven main categories: kingdom, phylum, class, order, family, genus and species. Many microorganisms  are known by their family, genus and species. For example, bacteria are named by their genus and species, such as Escherichia coli, Staphylococcus aureus, and Mycobacterium tuberculosis. Some families of bacteria are known pathogens in health care, such as the Enterobacteriaceae family.
@@ -10,7 +10,7 @@ Microbes can be divided into five categories.
 
 
 
-##Bacteria
+## Bacteria
 
 **Characteristics:**
 
@@ -35,7 +35,7 @@ Microbes can be divided into five categories.
  - antibiotics.
 
 
-##Viruses
+## Viruses
 
 **Characteristics:**
 
@@ -59,7 +59,7 @@ Microbes can be divided into five categories.
  - antivirals or supportive treatment.
 
 
-##Fungi
+## Fungi
 
 **Characteristics:**
 
@@ -81,7 +81,7 @@ Microbes can be divided into five categories.
 
 
 
-##Parasites
+## Parasites
 
 **Characteristics:**
 
@@ -104,7 +104,7 @@ Microbes can be divided into five categories.
 
 
 
-##Prions
+## Prions
 
 **Definition:** 
 A prion is a type of protein that can trigger normal proteins in the brain to fold abnormally. Prion diseases can affect both humans and animals and are sometimes spread to humans by infected meat products. The most common form of prion disease that affects humans is Creutzfeldt-Jakob disease (CJD).
@@ -130,7 +130,7 @@ A prion is a type of protein that can trigger normal proteins in the brain to fo
 -----------------------------------------------
 -------------------------------------------------
 
-###**How do bacteria cause infection?**
+### How do bacteria cause infection?
 
 As we have just learnt, most bacteria are important parts of the normal human flora. They help us do such things as digest our food. However, when these bacteria appear in parts of the body where they do not belong, they can cause infection. For example, bacteria normally found in the gastrointestinal tract could cause a urinary tract infection (UTI) if they are introduced to the bladder or kidneys. Closed areas, such as bladders, joints, and the bloodstream, are sterile areas of the body. That means these parts of the body are meant to be free from bacteria or any other living microorganism. When microbes enter these parts of the body, disease and infection can occur.
 
@@ -142,7 +142,7 @@ The skin, mucous membranes, gastric juices, and blood are part of the body’s d
 
 Many different types of exposure can occur. Exposure can occur in the community or in a health care setting—for example, being pricked by a used needle.
 
-###Infection
+### Infection
 
 Even after exposure, there are many factors that determine whether the pathogen will cause an infection.
 
@@ -155,7 +155,7 @@ Even after exposure, there are many factors that determine whether the pathogen 
 For subclinical infections, there are a number of outcomes. If the pathogen has colonized, this means it is present in the body but does not cause disease (carrier state). The immune system can mount a response, which in some cases leads to production of antibodies against the pathogen (immunity). However, even if the immune system mounts a response and creates antibodies, reinfection is possible.
 
 
-###How is an infection diagnosed?
+### How is an infection diagnosed?
 
 **Signs and symptoms**
 
@@ -170,7 +170,7 @@ of symptoms are indications that the body is fighting an infection:
  - fluid drainage
 
 
-####Laboratory diagnosis
+#### Laboratory diagnosis
 
 Laboratory testing is not strictly required to diagnose an infection—but identifying the specific pathogen can help guide antibiotic treatment and inform what, if any, Infection Prevention and Control (IPC) interventions may be required to help reduce or prevent the spread of infection to other susceptible hosts. In those facilities without lab access, clinicians should refer to their national treatment guidelines to determine how to choose a suitable antimicrobial treatment.
 
@@ -189,31 +189,31 @@ A Gram-negative stain means that the bacteria does not have an extra layer in th
 The Gram stain takes less than an hour to perform. The result of this test can help clinicians quickly decide which antibiotic to choose.
 
 
-####What is a culture?
+#### What is a culture?
 
 Microorganisms that have been grown in a Petri dish using a special growth media are referred to as a culture. The time it takes a culture to grow depends on how long it takes the microorganisms to grow. Some microorganisms grow within hours; others take days to grow. Microorganisms look different from each other when cultured. A trained laboratory technician can identify a bacteria genus, and sometimes species, based on what the culture looks like. Some laboratory equipment is advanced enough to automate the process of culturing bacteria.
 
-####How can testing determine antimicrobial resistance (AMR)?
+#### How can testing determine antimicrobial resistance (AMR)?
 
 Antimicrobial susceptibility testing (AST) consists of both manual and automatic tests that use colonies from cultures to determine whether a microbe is susceptible or resistant to drugs. These complex procedures take 2—3 days to be processed by trained microbiologists.
 
 
-##How is a bacterial infection treated?
+## How is a bacterial infection treated?
 
-###Antibiotics
+### Antibiotics
 
 There are many different kinds of antibiotics. Some antibiotics are capable of killing many kinds of bacteria. These antibiotics are classified as broad-spectrum. Broad-spectrum antibiotics are a good choice when the agent of infection is unknown, because there is a high likelihood that the antibiotic will be effective. However, because they are so good at killing, broad-spectrum antibiotics also kill the normal flora that are beneficial to us. In addition, they are more likely to lead to selection of resistant organisms. Some examples of broad-spectrum antibiotics are chloramphenicol, tetracycline, ciprofloxacin, cotrimoxazole, and amoxicillin/clavulanate imipenem.
 
 Other antibiotics act only against limited types of bacteria. These antibiotics are classified as narrow-spectrum. Vancomycin, penicillin, and linezolid are examples of antibiotics that will kill Gram-positive bacteria, but not Gram-negative bacteria. On the other hand, aztreonam and colistin will kill Gram-negative bacteria, but not Gram-positive bacteria. Narrow-spectrum antibiotics protect our normal flora and are less likely than broad-spectrum antibiotics to lead to AMR.
 
 
-###What is AMR?
+### What is AMR?
 
 AMR occurs when a microorganism develops protection against an antimicrobial drug. Microorganisms replicate very quickly. E. coli, for example, can double in quantity in about 40 minutes. During replication of genetic material, microorganisms can insert and delete certain portions of their genetic material. They can also pick up extra genetic material that helps them protect themselves against drugs meant to kill them. Due to the rapid way in which microorganisms replicate, AMR can develop quickly.
 
 Resistant microorganisms can place more of a burden on the health care system. These highly resistant organisms increase the risk of morbidity, mortality, and disability in patients. They can increase a patient’s length of stay or cause complications that may require admission to an intensive care unit (ICU). They can also increase the financial burden on patients, who then have to purchase more expensive antibiotics to treat multidrug-resistant organisms (MDROs—see below).
 
-###What are MDROs?
+### What are MDROs?
 
 When microorganisms become resistant to more than one drug, they are called multidrug-resistant organisms, or MDROs. Laboratory tests are needed to determine if a microorganism is resistant to the drug designed to treat it. In the health care and public health fields, AMR is concerning because it means the microorganism is evolving. For clinicians, this could mean few or no treatment options.
 
@@ -222,7 +222,7 @@ Some MDROs are caused by the overuse and misuse of antibiotics; this includes ad
 It is increasingly important to identify and sustain systems and strategies that manage the risk of MDROs in your facility. When MDROs are discovered by laboratory tests, the physician and the IPC team should be alerted. Examples of MDROs commonly found in the health care setting include multidrug-resistant Klebsiella spp. and Acinetobacter spp.
 
 
-###How do infections spread?
+### How do infections spread?
 
 *How does a disease spread?
 Take a look at the chain of infection diagram (below). Disease transmission occurs when an infectious agent 
@@ -233,7 +233,7 @@ The image below illustrates this cycle.
 
 ![](https://s3.xopic.de/openwho-public/courses/5qdRYBly37U2jLgUZcdBhE/rtfiles/430EgUE72IHGbTZ0m601Vu/chainOfInfection.PNG)
 
-###IPC and microbiology
+### IPC and microbiology
 
 The IPC team is the health facility’s line of defense against the spread of health care-associated infections (HAI) and AMR. Having a basic understanding of microbiology will allow you to make better decisions regarding which interventions to implement in your facility.
 
@@ -243,7 +243,7 @@ Here are some considerations you may need to make as an IPC person:
  - What is the quality and capacity of the laboratory, if available?
  - Are the standardized definitions and methods consistent?
 
-##Summary
+## Summary
 In this course, you have learnt that, although not all microorganisms are harmful, pathogens can spread throughout 
 the health care environment. Through the chain of infection, we can see how a pathogen can cause infection, 
 from the reservoir to the portal of entry in the body. Microorganisms can become drug resistant through the misuse 
@@ -252,8 +252,9 @@ these pathogens are called MDROs. Microbiologists use Gram stains, cultures and 
 and characterize pathogens, which then helps clinicians make appropriate treatment decisions.
 
 ------------------------------------------------------------------
-###<font color="viole"><center>This small course is designed WHO</center></font>
-####<center>For course link : [**click here**](https://openwho.org/courses/IPC-MICRO-EN)</center>
+### <font color="viole"><center>This small course is designed WHO</center></font>
+
+#### <center>For course link : [**click here**](https://openwho.org/courses/IPC-MICRO-EN)</center>
 -----------------------------------------------------
 
 
